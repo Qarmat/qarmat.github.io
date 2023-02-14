@@ -2,5 +2,6 @@
   {"word":"ظر","romanization":"zar","en":"gold","tr":"altın","etymology":"Persian"},
   {"word":"الله","romanization":"Allah, allah","en":"Allah, god","tr":"Allah, tanrı","etymology":"Arabic"},
   {"word":"تفتا","romanization":"Tufta, tufta","en":"Tufta, word pattern, vocabulary template","tr":"Tufta, kelime kalıbı, sözcük şablonu","etymology":"Native"},
-  {"word":"قرمت","romanization":"qarmat","en":"dictionary, lexicon, thesaurus, glossary, wordbook","tr":"sözlük, lügat, kamus","etymology":"Native"}
+  {"word":"قرمت","romanization":"qarmat","en":"dictionary, lexicon, thesaurus, glossary, wordbook","tr":"sözlük, lügat, kamus","etymology":"Native"},
+  {"word":"مࢣ","romanization":"maj","en":"silver","tr":"gümüş","etymology":"Native"}
 ]
