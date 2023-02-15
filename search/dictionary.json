@@ -3,5 +3,7 @@
   {"word":"الله","romanization":"Allah, allah","en":"Allah, god","tr":"Allah, tanrı","etymology":"Arabic"},
   {"word":"تفتا","romanization":"Tufta, tufta","en":"Tufta, word pattern, vocabulary template","tr":"Tufta, kelime kalıbı, sözcük şablonu","etymology":"Native"},
   {"word":"قرمت","romanization":"qarmat","en":"dictionary, lexicon, thesaurus, glossary, wordbook","tr":"sözlük, lügat, kamus","etymology":"Native"},
-  {"word":"مࢣ","romanization":"maj","en":"silver","tr":"gümüş","etymology":"Native"}
+  {"word":"مࢣ","romanization":"maj","en":"silver","tr":"gümüş","etymology":"Native"},
+  {"word":"تڡݣ","romanization":"tuvañ","en":"rifle, firearm, gun, musket","tr":"tüfek, ateşli silah","etymology":"Persian"},
+  {"word":"چڡݣ","romanization":"çevuñ","en":"sword, knife, blade, dagger","tr":"kılıç, bıçak, bıçkı","etymology":"Native"}
 ]
