@@ -180,6 +180,7 @@ a.readmore:hover{background-color:#2f2f2f; background-image:none; text-shadow:0 
 }
 
 /* Extra */
+#nastaliq{color:#2f2f2f; font-family:"Noto Nastaliq Urdu"; font-size: 25px;}
 input {
     font-family: "Noto Nastaliq Urdu";
     font-size: 22px;
@@ -192,7 +193,7 @@ input {
     width: 500px;
     height: 10px;
 }
-::-moz-selection {
+::-moz-selection { /* Code for Firefox */
   color: #d0d0d0;
   background: #6004d8;
 }
