@@ -21,7 +21,7 @@ fetch('dictionary.json').then(response => response.json()).then(db => {
   var results = miniSearch.search(new URLSearchParams(document.location.search).get('q'), {prefix: true});
   for (let i = 0; i < results.length; i++) {
     var r = results[i];
-    document.getElementById('aboutleft').innerHTML += `<h3><span id="nastaliq">${r.word}</span> <span>${r.romanization}</span></h3><p><img id="flag" src="../images/en.png"></img>${r.en}</p><p><img id="flag" src="../images/tr.png"></img>${r.tr}</p><h5><b>Origin:</b> <i>${r.etymology}</i></h5>`;
+    document.getElementById('aboutleft').innerHTML += `<h3><span style="font-family:"Noto Nastaliq Urdu";font-size:25px">${r.word}</span> <span>${r.romanization}</span></h3><p><img id="flag" src="../images/en.png"></img>${r.en}</p><p><img id="flag" src="../images/tr.png"></img>${r.tr}</p><h5><b>Origin:</b> <i>${r.etymology}</i></h5>`;
   };
 });
 </script>
