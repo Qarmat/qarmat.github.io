@@ -1,7 +1,7 @@
 [
   {"word":"زر","romanization":"zar","en":"gold","tr":"altın","etymology":"Persian"},
   {"word":"الله","romanization":"Allah, allah","en":"Allah, god","tr":"Allah, tanrı","etymology":"Arabic"},
-  {"word":"تفتا","romanization":"Tufta, tufta","en":"Tufta, word pattern, vocabulary template","tr":"Tufta, kelime kalıbı, sözcük şablonu","etymology":"Native"},
+  {"word":"تفتا","romanization":"Tufta, tufta","en":"Tufta, word pattern, vocabulary template, vowel harmony","tr":"Tufta, kelime kalıbı, sözcük şablonu, ünlü uyumu","etymology":"Native"},
   {"word":"قرمت","romanization":"qarmat","en":"dictionary, lexicon, thesaurus, glossary, wordbook","tr":"sözlük, lügat, kamus","etymology":"Native"},
   {"word":"مژ","romanization":"maj","en":"silver","tr":"gümüş","etymology":"Native"},
   {"word":"تڡڠ","romanization":"tuvañ","en":"rifle, firearm, gun, musket","tr":"tüfek, ateşli silah","etymology":"Persian"},
@@ -13,5 +13,6 @@
   {"word":"دن","romanization":"din","en":"religion, faith","tr":"din, inanç, inanış","etymology":"Arabic"},
   {"word":"دنرن","romanization":"dinran","en":"coreligionist, ally of faith, religious brother, religious sister","tr":"dindaş, din arkadaşı, din kardeşi, dinî müttefik","etymology":"Arabic and Native"},
   {"word":"شرنے","romanization":"şarni","en":"greenhouse, plant house","tr":"sera, bitki evi","etymology":"Persian"},
-  {"word":"فربڠ","romanization":"ferbañ","en":"prefecture, province, state, district, county, region, neighborhood, neighbourhood","tr":"il, eyalet, vilayet, kaza, ilçe, semt, bölge, mahalle","etymology":"Native"}
+  {"word":"فربڠ","romanization":"ferbañ","en":"prefecture, province, state, district, county, region, neighborhood, neighbourhood","tr":"il, eyalet, vilayet, kaza, ilçe, semt, bölge, mahalle","etymology":"Native"},
+  {"word":"رتنم","romanization":"ratnüm","en":"plane, airplane, aeroplane, aircraft, aerocraft, aerial vehicle","tr":"uçak, tayyare, hava aracı","etymology":"Native"},
 ]
