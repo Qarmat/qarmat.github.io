@@ -7,7 +7,7 @@
   {"word":"تڡڠ","romanization":"tuvañ","en":"rifle, firearm, gun, musket","tr":"tüfek, ateşli silah","etymology":"Persian"},
   {"word":"چڡڠ","romanization":"çevuñ","en":"sword, knife, blade, dagger","tr":"kılıç, bıçak, bıçkı, çakı","etymology":"Native"},
   {"word":"ڡو","romanization":"vu","en":"and","tr":"ve, ile","etymology":"Persian"},
-  {"word":"زايم","romanization":"zaayim","en":"national leader, country president, sultan, shah, monarch, queen, king, state administrator, governor","tr":"millî lider, ulusal önder, ülke başkanı, sultan, padişah, şah, hükümdar, kraliçe, kral, devlet yöneticisi, vali","etymology":"Arabic"},
+  {"word":"زايم","romanization":"zāyim","en":"national leader, country president, sultan, shah, monarch, queen, king, state administrator, governor","tr":"millî lider, ulusal önder, ülke başkanı, sultan, padişah, şah, hükümdar, kraliçe, kral, devlet yöneticisi, vali","etymology":"Arabic"},
   {"word":"كزپ","romanization":"kezup","en":"faction, party, sect, society, organization, organization, front, community, congress, union","tr":"hizip, parti, fırka, cemiyet, örgüt, teşkilat, cephe, topluluk, kongre, birlik","etymology":"Arabic"},
   {"word":"شترن","romanization":"şatran","en":"friend, buddy, mate, companion","tr":"arkadaş, dost, sahabe","etymology":"Native"},
   {"word":"دن","romanization":"din","en":"religion, faith","tr":"din, inanç, inanış","etymology":"Arabic"},
@@ -16,6 +16,13 @@
   {"word":"فربڠ","romanization":"ferbañ","en":"prefecture, province, state, district, county, region, neighborhood, neighbourhood","tr":"il, eyalet, vilayet, kaza, ilçe, semt, bölge, mahalle","etymology":"Native"},
   {"word":"رتنم","romanization":"ratnüm","en":"plane, airplane, aeroplane, aircraft, aerocraft, aerial vehicle","tr":"uçak, tayyare, hava aracı","etymology":"Native"},
   {"word":"برػف","romanization":"barǩaf","en":"river, water stream","tr":"ırmak, nehir, dere, akarsu, su akıntısı","etymology":"Native"},
-  {"word":"شرنک","romanization":"şarnik","en":"storage, storehouse, warehouse, storeroom, repository, barn","tr":"depo, ambar","etymology":"Native"},
-  {"word":"قرفە","romanization":"qurfe","en":"tower","tr":"kule","etymology":"Native"}
+  {"word":"شرنک","romanization":"şarnik","en":"storage, storehouse, warehouse, storeroom, repository, barn","tr":"depo, ambar, mahzen","etymology":"Native"},
+  {"word":"قرفە","romanization":"qurfe","en":"tower","tr":"kule","etymology":"Native"},
+  {"word":"بفکو","romanization":"bafkü","en":"tool, utility, device, instrument, gadget, equipment, gear, machine","tr":"alet, edat, edevat, araç, ekipman, makine","etymology":"Native"},
+  {"word":"مڷیم","romanization":"müłyam","en":"science, scholarship, knowledge","tr":"bilim, ilim, fen, irfan","etymology":"Native"},
+  {"word":"تبر","romanization":"tubar","en":"wing","tr":"kanat","etymology":"Native"},
+  {"word":"مز","romanization":"maz","en":"I, me, self","tr":"ben, kendi, öz","etymology":"Native"},
+  {"word":"زف","romanization":"zaf","en":"money, cash, coin, banknote, penny","tr":"para, sikke, banknot, kağıt para, nakit, metelik":"Native"},
+  {"word":"فرک","romanization":"ferk","en":"signature, autograph, sign, seal, signet, stamp, cachet","tr":"imza, otograf, kaşe, mühür","etymology":"Arabic"},
+  {"word":"چرکن","romanization":"çerken","en":"book, paper, work, writing, biblio","tr":"kitap, eser, defter","etymology":"Native"}
 ]
