@@ -26,7 +26,7 @@
   {"word":"فرک","romanization":"ferk","en":"signature, autograph, sign, seal, signet, stamp, cachet","tr":"imza, otograf, kaşe, damga, baskı, mühür","etymology":"Arabic"},
   {"word":"كتپ","romanization":"kitap","en":"book, paper, work, writing, biblio","tr":"kitap, eser, defter","etymology":"Arabic"},
   {"word":"تهرە","romanization":"tahra","en":"table, desk","tr":"masa, sıra","etymology":"Native"},
-  {"word":"همر","romanization":"hemar","en":"information, info, data, knowledge, fact, reality","tr":"bilgi, veri, hakikat, gerçeklik":"Native"},
+  {"word":"همر","romanization":"hemar","en":"information, info, data, knowledge, fact, reality","tr":"bilgi, veri, hakikat, gerçeklik", "etymology":"Native"},
   {"word":"كهرش","romanization":"kehraş","en":"mix, mixture, blend, combo, combination","tr":"karışım, kokteyl, kombin, kombinasyon","etymology":"Native"},
   {"word":"غرمت","romanization":"garmat","en":"throwable, splash, projectile","tr":"fırlatılabilir, atılabilir":"Native"},
   {"word":"اشه","romanization":"aşuh","en":"to improve, develop, reinforce something using knowledge","tr":"bir bilgiyi kullanarak bir şeyi geliştirmek, güçlendirmek":"Native"}
