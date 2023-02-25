@@ -1,7 +1,7 @@
 [
   {"word":"زر","romanization":"zar","en":"gold","tr":"altın","etymology":"Persian"},
   {"word":"الله","romanization":"Allah, allah","en":"Allah, god","tr":"Allah, tanrı","etymology":"Arabic"},
-  {"word":"تفتا","romanization":"Tufta, tufta","en":"Tufta, word pattern, vocabulary template, vowel harmony","tr":"Tufta, kelime kalıbı, sözcük şablonu, ünlü uyumu","etymology":"Native"},
+  {"word":"تفتە","romanization":"Tufta, tufta","en":"Tufta, word pattern, vocabulary template, vowel harmony","tr":"Tufta, kelime kalıbı, sözcük şablonu, ünlü uyumu","etymology":"Native"},
   {"word":"قرمت","romanization":"qarmat","en":"dictionary, lexicon, thesaurus, glossary, wordbook","tr":"sözlük, lügat, kamus","etymology":"Native"},
   {"word":"مژ","romanization":"maj","en":"silver","tr":"gümüş","etymology":"Native"},
   {"word":"تڡڠ","romanization":"tuvañ","en":"rifle, firearm, gun, musket","tr":"tüfek, ateşli silah","etymology":"Persian"},
@@ -24,5 +24,10 @@
   {"word":"مز","romanization":"maz","en":"I, me, self","tr":"ben, kendi, öz","etymology":"Native"},
   {"word":"زف","romanization":"zaf","en":"money, cash, coin, banknote, penny","tr":"para, sikke, banknot, kağıt para, nakit, metelik","etymology":"Native"},
   {"word":"فرک","romanization":"ferk","en":"signature, autograph, sign, seal, signet, stamp, cachet","tr":"imza, otograf, kaşe, damga, baskı, mühür","etymology":"Arabic"},
-  {"word":"چرکن","romanization":"çerken","en":"book, paper, work, writing, biblio","tr":"kitap, eser, defter","etymology":"Native"}
+  {"word":"كتپ","romanization":"kitap","en":"book, paper, work, writing, biblio","tr":"kitap, eser, defter","etymology":"Arabic"},
+  {"word":"تهرە","romanization":"tahra","en":"table, desk","tr":"masa, sıra","etymology":"Native"},
+  {"word":"همر","romanization":"hemar","en":"information, info, data, knowledge, fact, reality","tr":"bilgi, veri, hakikat, gerçeklik":"Native"},
+  {"word":"كهرش","romanization":"kehraş","en":"mix, mixture, blend, combo, combination","tr":"karışım, kokteyl, kombin, kombinasyon","etymology":"Native"},
+  {"word":"غرمت","romanization":"garmat","en":"throwable, splash, projectile","tr":"fırlatılabilir, atılabilir":"Native"},
+  {"word":"اشه","romanization":"aşuh","en":"to improve, develop, reinforce something using knowledge","tr":"bir bilgiyi kullanarak bir şeyi geliştirmek, güçlendirmek":"Native"}
 ]
