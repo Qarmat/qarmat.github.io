@@ -15,11 +15,11 @@
   {"word":"شرنے","romanization":"şarni","en":"greenhouse, plant house","tr":"sera, bitki evi","etymology":"Persian"},
   {"word":"فربڠ","romanization":"ferbañ","en":"prefecture, province, state, district, county, region, neighborhood, neighbourhood","tr":"il, eyalet, vilayet, kaza, ilçe, semt, bölge, mahalle","etymology":"Native"},
   {"word":"رتنم","romanization":"ratnüm","en":"plane, airplane, aeroplane, aircraft, aerocraft, aerial vehicle","tr":"uçak, tayyare, hava aracı","etymology":"Native"},
-  {"word":"برػف","romanization":"barǩaf","en":"river, water stream","tr":"ırmak, nehir, dere, akarsu, su akıntısı","etymology":"Native"},
+  {"word":"برخف","romanization":"barǩaf","en":"river, water stream","tr":"ırmak, nehir, dere, akarsu, su akıntısı","etymology":"Native"},
   {"word":"شرنک","romanization":"şarnik","en":"storage, storehouse, warehouse, storeroom, repository, barn","tr":"depo, ambar, mahzen","etymology":"Native"},
   {"word":"قرفە","romanization":"qurfe","en":"tower","tr":"kule","etymology":"Native"},
   {"word":"بفکو","romanization":"bafkü","en":"tool, utility, device, instrument, gadget, equipment, gear, machine","tr":"alet, edat, edevat, araç, ekipman, makine","etymology":"Native"},
-  {"word":"مڷیم","romanization":"mułyim","en":"science, scholarship, knowledge","tr":"bilim, ilim, fen, irfan","etymology":"Native"},
+  {"word":"ملیم","romanization":"mulyim","en":"science, scholarship, knowledge","tr":"bilim, ilim, fen, irfan","etymology":"Native"},
   {"word":"تبر","romanization":"tubar","en":"wing","tr":"kanat","etymology":"Native"},
   {"word":"مز","romanization":"maz","en":"I, me, self","tr":"ben, kendi, öz","etymology":"Native"},
   {"word":"زف","romanization":"zaf","en":"money, cash, coin, banknote, penny","tr":"para, sikke, banknot, kağıt para, nakit, metelik","etymology":"Native"},
@@ -29,5 +29,5 @@
   {"word":"همر","romanization":"hemar","en":"information, info, data, knowledge, fact, reality","tr":"bilgi, veri, hakikat, gerçeklik", "etymology":"Native"},
   {"word":"كهرش","romanization":"kehraş","en":"mix, mixture, blend, combo, combination","tr":"karışım, kokteyl, kombin, kombinasyon","etymology":"Native"},
   {"word":"غرمت","romanization":"garmat","en":"throwable, splash, projectile","tr":"fırlatılabilir, atılabilir":"Native"},
-  {"word":"اشه","romanization":"aşuh","en":"to improve, develop, reinforce something using knowledge","tr":"bir bilgiyi kullanarak bir şeyi geliştirmek, güçlendirmek":"Native"}
+  {"word":"اَشه","romanization":"aşuh","en":"to improve, develop, reinforce something using knowledge","tr":"bir bilgiyi kullanarak bir şeyi geliştirmek, güçlendirmek":"Native"}
 ]
