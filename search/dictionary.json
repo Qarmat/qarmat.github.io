@@ -38,5 +38,6 @@
   {"word":"درمل","romanization":"derumal","en":"stop, station, depot, stand","tr":"durak, durma yeri, bekleme yeri, istasyon","etymology":"Pashto and Arabic"},
   {"word":"رستر","romanization":"rastur","en":"restaurant, diner, lunchroom, eating house","tr":"restoran, lokanta, yemekhane, aşevi, doyumevi","etymology":"French"},
   {"word":"تقتر","romanization":"tuqtar","en":"bridge","tr":"köprü","etymology":"Native"},
-  {"word":"پلشر","romanization":"pelşar","en":"flag dealer, flag shop","tr":"köprü","bayrak satıcısı, bayrak dükkânı":"Native"}
+  {"word":"پلشر","romanization":"pelşar","en":"flag dealer, flag shop","tr":"köprü","bayrak satıcısı, bayrak dükkânı","etymology":"Native"},
+  {"word":"اَلش","romanization":"alaş","en":"home, house, place, dwelling","tr":"ev, yuva, hane, yer, konut","etymology":"Native"}
 ]
