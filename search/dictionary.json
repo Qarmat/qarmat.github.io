@@ -24,7 +24,7 @@
   {"word":"مز","romanization":"maz","en":"I, me, self","tr":"ben, kendi, öz","etymology":"Native"},
   {"word":"زف","romanization":"zaf","en":"money, cash, coin, banknote, penny","tr":"para, sikke, banknot, kağıt para, nakit, metelik","etymology":"Native"},
   {"word":"فرک","romanization":"ferk","en":"signature, autograph, sign, seal, signet, stamp, cachet","tr":"imza, otograf, kaşe, damga, baskı, mühür","etymology":"Arabic"},
-  {"word":"کتپ","romanization":"kitap","en":"book, paper, work, writing, biblio","tr":"kitap, eser, defter","etymology":"Arabic"},
+  {"word":"کتپ","romanization":"kitap","en":"book, paper, work, writing","tr":"kitap, eser","etymology":"Arabic"},
   {"word":"تهرە","romanization":"tahra","en":"table, desk","tr":"masa, sıra","etymology":"Native"},
   {"word":"همر","romanization":"hemar","en":"information, info, data, knowledge, fact, reality","tr":"bilgi, veri, hakikat, gerçeklik", "etymology":"Native"},
   {"word":"كهرش","romanization":"kehraş","en":"mix, mixture, blend, combo, combination","tr":"karışım, kokteyl, kombin, kombinasyon","etymology":"Native"},
@@ -38,6 +38,6 @@
   {"word":"درمل","romanization":"derumal","en":"stop, station, depot, stand","tr":"durak, durma yeri, bekleme yeri, istasyon","etymology":"Pashto and Arabic"},
   {"word":"رستر","romanization":"rastur","en":"restaurant, diner, lunchroom, eating house","tr":"restoran, lokanta, yemekhane, aşevi, doyumevi","etymology":"French"},
   {"word":"تقتر","romanization":"tuqtar","en":"bridge","tr":"köprü","etymology":"Native"},
-  {"word":"پلشر","romanization":"pelşar","en":"flag dealer, flag shop","tr":"köprü","bayrak satıcısı, bayrak dükkânı","etymology":"Native"},
+  {"word":"پلشر","romanization":"pelşar","en":"flag dealer, flag shop","tr":"bayrak satıcısı, bayrak dükkânı","etymology":"Native"},
   {"word":"اَلش","romanization":"alaş","en":"home, house, place, dwelling","tr":"ev, yuva, hane, yer, konut","etymology":"Native"}
 ]
