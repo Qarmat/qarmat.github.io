@@ -39,5 +39,10 @@
   {"word":"رستر","romanization":"rastur","en":"restaurant, diner, lunchroom, eating house","tr":"restoran, lokanta, yemekhane, aşevi, doyumevi","etymology":"French"},
   {"word":"تقتر","romanization":"tuqtar","en":"bridge","tr":"köprü","etymology":"Native"},
   {"word":"پلشر","romanization":"pelşar","en":"flag dealer, flag shop","tr":"bayrak satıcısı, bayrak dükkânı","etymology":"Native"},
-  {"word":"اَلش","romanization":"alaş","en":"home, house, place, dwelling","tr":"ev, yuva, hane, yer, konut","etymology":"Native"}
+  {"word":"اَلش","romanization":"alaş","en":"home, house, place, dwelling","tr":"ev, yuva, hane, yer, konut","etymology":"Native"},
+  {"word":"زیبڠ","romanization":"zaybañ","en":"başkent","tr":"capital","etymology":"Arabic and Native"},
+  {"word":"زیخەنە","romanization":"zayǩāne","en":"palace, state building, government building, serai, sarai","tr":"saray, devlet binası, hükümet binası","etymology":"Persian and Native"},
+  {"word":"شرن","romanization":"şarın","en": 
+"parliament, counsil, assembly, congress","tr":"parlemento, meclis, konsey, kurul, kongre","etymology":"Native"},
+  {"word":"کڡن","romanization":"küvan","en":"school, ecole, education center, course","tr":"okul, ekol, eğitim merkezi, eğitim kurumu, medrese, mektep, kurs","etymology":"Native"}
 ]
