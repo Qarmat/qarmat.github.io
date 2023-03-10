@@ -30,7 +30,7 @@
   {"word":"كهرش","romanization":"kehraş","en":"mix, mixture, blend, combo, combination","tr":"karışım, kokteyl, kombin, kombinasyon","etymology":"Native"},
   {"word":"غرمت","romanization":"garmat","en":"throwable, splash, projectile","tr":"fırlatılabilir, atılabilir", "etymology":"Native"},
   {"word":"اَشه","romanization":"aşuh","en":"to improve, develop, reinforce something using knowledge","tr":"bir bilgiyi kullanarak bir şeyi geliştirmek, güçlendirmek", "etymology":"Native"},
-  {"word":"قرف","romanization":"qaruf","en":"water, liquid","tr":"su, sıvı","etymology":"Native"},
+  {"word":"قرف","romanization":"qaruf","en":"liquid, fluid, juice","tr":"sıvı, likit, akışkan, su","etymology":"Native"},
   {"word":"قر","romanization":"qar","en":"to flow, to leak, to drain","tr":"akmak, sızmak, içi boşalmak","etymology":"Native"},
   {"word":"نمر","romanization":"nemar","en":"to do, to make","tr":"yapmak, etmek, kılmak, eylemek","etymology":"Native"},
   {"word":"کتر","romanization":"ketar","en":"to be","tr":"olmak, yapılmak, edilmek, kılınmak, eylenmek","etymology":"Native"},
@@ -44,5 +44,6 @@
   {"word":"زیخەنە","romanization":"zayǩāne","en":"palace, state building, government building, serai, sarai","tr":"saray, devlet binası, hükümet binası","etymology":"Persian and Native"},
   {"word":"شرن","romanization":"şarın","en":"parliament, counsil, assembly, congress","tr":"parlemento, meclis, konsey, kurul, kongre","etymology":"Native"},
   {"word":"کڡن","romanization":"küvan","en":"school, ecole, education center, course, academy","tr":"okul, ekol, eğitim merkezi, eğitim kurumu, medrese, mektep, kurs, akademi","etymology":"Native"},
-  {"word":"رڡم","romanization":"ravum","en":"state, government, country, nation, motherland, fatherland, homeland, land","tr":"devlet, hükümet, ülke, ulus, millet, anavatan, memleket, yurt, vatan, diyar","etymology":"Native"}
+  {"word":"رڡم","romanization":"ravum","en":"state, government, country, nation, motherland, fatherland, homeland, land","tr":"devlet, hükümet, ülke, ulus, millet, anavatan, memleket, yurt, vatan, diyar","etymology":"Native"},
+  {"word":"اِدک","romanization":"idek","en":"water","tr":"su","etymology":"Native"}
 ]
